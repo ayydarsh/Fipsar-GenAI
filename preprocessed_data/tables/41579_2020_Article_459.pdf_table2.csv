@@ -1,0 +1,16 @@
+,Unnamed: 0,Unnamed: 1,S1 subunit,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,S2 subunit,Unnamed: 9,Unnamed: 10
+0,,,,RBD,,,,,,,,,
+1,SARS-CoV,,,,,,,,,,,,
+2,SP,NTD,,RBM,,,,,FP,,HR1 HR2,TM CP,
+3,1 13,,292 306,424,494,527,,667 668,770 788,894,"966 1,145","1,195 1,219 1,255",
+4,SARS-CoV-2,,,,,,,,,,,,
+5,SP,NTD,,,RBM,,,,FP,,HR1,HR2 TM,CP
+6,1 13,,305 319,437,,508 541,,685 686,788 806,912,"984 1,163","1,213 1,237","1,27"
+7,,,,,,,,,,,Polybasic cleavage site,,
+8,,,,,,,,,,SARS-CoV-2,675 Q T Q T N S P R R A R S V,A S Q S 691,
+9,,,,,,,,,,BJ01,661 H T V S L L - - - - R S T,S Q K S 673,
+10,,,,,,,,,,RaTG13,675 Q T Q T N S - - - - R S V,A S Q S 687,
+11,,,,,,,,,,GX pangolin,671 H S M S S L - - - - R S V,N Q R S 683,
+12,,,,,,,,,,GD pangolin,671 Q T Q T N S - - - - R S V,S S Q A 683,
+13,,,,,,,,,,RmYN02,635 - - - - N S P - A A R - V,G T N S 645,
+14,,,,,,,,,,Bat WIV1,662 H T V S S L - - - - R S T,S Q K S 674,

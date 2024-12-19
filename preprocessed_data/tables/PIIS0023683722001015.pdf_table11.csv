@@ -1,0 +1,9 @@
+,Kit name,Manufacturer,Test type,Antibody tested,Sensitivity and specificity
+0,84Platelia SARS-CoV-2 total antibody assay,Bio-Rad,ELISA,Total antibody,100.0 and 99.6%
+1,84COVID-19 antibody test,Mount Sinai,ELISA,IgG,92.0 and 100.0%
+2,84LIAISON® SARS-CoV-2 S1/S2 IgG,DiaSorin,CLIA,IgG,97.56 and 99.3%
+3,84Ortho’s VITROS® COVID-19 antigen test,Ortho-Clinical Diagnostic,CLIA,IgG,75 and 100%
+4,Eugene® 85SARS-CoV2 IgG/IgM rapid test,Shanghai Eugene Biotech,GICA,Combo IgM/IgG,96.4 and 98.7%
+5,85StandardTM Q COVID-19 IgM/IgG duo test,SD Biosensor,GICA,Combo IgM/IgG,"100% and IgM 91.7%, IgG 79.2%"
+6,85COVID-19 IgG/IgM rapid test,Healgen Scientific,GICA,Combo IgM/IgG,"IgM 87.9%, IgG 97.2% and 100%"
+7,85SARS-CoV-2 antibody test,Biologix Corporation,GICA,Total antibody,86.43% and 99.57%

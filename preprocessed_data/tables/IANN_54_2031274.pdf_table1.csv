@@ -1,0 +1,22 @@
+,B.1.351,VOC,Beta,South Africa/,D80A,""" Transmissibility ( 50%)"
+0,B.1.351.2,,,December 2020,D215G,
+1,B.1.351.3,,,,241del,# Susceptibility to EUA monoclonal
+2,,,,,242del,antibody treatments
+3,,,,,243del,
+4,,,,,K417N,# Neutralization to convalescent &
+5,,,,,E484K,post-vaccination sera
+6,,,,,N501Y,
+7,,,,,D614G,
+8,,,,,A701V,
+9,P.1,VOC,Gamma,Brazil/,L18F,# Susceptibility to bamlanivimab/
+10,P.1.1,,,January 2021,T20N,etesevimab monoclonal antibody
+11,P.1.2,,,,P26S,treatments
+12,,,,,D138Y,
+13,,,,,R190S,# Neutralization to convalescent &
+14,,,,,K417T,post-vaccination sera
+15,,,,,E484K,
+16,,,,,N501Y,
+17,,,,,D614G,
+18,,,,,H655Y,
+19,,,,,T1027I,
+20,B.1.617.2,VOI,Delta,India/,T19R,""" Transmissibility"

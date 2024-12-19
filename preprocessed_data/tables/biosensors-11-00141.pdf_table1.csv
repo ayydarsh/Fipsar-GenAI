@@ -1,0 +1,25 @@
+,Unnamed: 0,Target,Unnamed: 1,Sample,No. of,Unnamed: 2,Unnamed: 3,Unnamed: 4,Cost (Per,Unnamed: 5
+0,Name of the Kit,,Type,,,Time,LOD,Sensitivity Specificity,,Reference
+1,,Genes,,Preparation,Tests,,,,Test),
+2,,"rdrp1,",,,,,,,,
+3,,"rdrp2, E",,,,,,,,
+4,,,,,,,5,,,
+5,,"gene, N",,,,,,,,
+6,CovidNudge,,RT-PCR,Automated,NA,~90 min,copies/μ,>94% 100%,GBP 10,[20]
+7,,"gene, n1,",,,,,,,,
+8,,,,,,,L,,,
+9,,"n2, and",,,,,,,,
+10,,n3,,,,,,,,
+11,Accula SARS-CoV-,,,,,,,,,
+12,,N gene,RT-PCR,Automated,NA,~30 min,NA,100% 100%,USD 20,[22]
+13,2 Test,,,,,,,,,
+14,Cepheid Xpert,,,,,,,,,
+15,,RT-PCR (real,,,10 per,,0.02,,,
+16,Xpress SARS-CoV- N2 and E,,,Automated,,,,,USD 19.8,[23]
+17,,,time),,kit,,PFU/mL,,,
+18,2 assay,,,,,,,,,
+19,FastPlex Triplex,,,,,,285.7,,,
+20,,"ORF1ab,",,,96 test,90 min,,,,
+21,SARS-CoV-2,,RT-dPCR,Manual,,,copies/m,>95% 95.7%,USD 1152,[23]
+22,,"N, RPP30",,,per kit,,,,,
+23,Detection Kit,,,,,,L,,,

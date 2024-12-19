@@ -1,0 +1,9 @@
+,Testing type,Unnamed: 0,aTime duration (Short or long ),Unnamed: 1,Suitable population (Large or small),Accuracy (High or low)
+0,Nucleic acid testing,,,,,
+1,Quantitative RT-PCR,,Long,,Large,igh
+2,Sequencing for diagnosis,,Long,,Small,igh
+3,Isothermal amplification,,Short,,Large,igh
+4,In situ hybridization,,Long,,Small,igh
+5,Protein testing,,,,,
+6,Antibody testing,,Short,,Large,igh
+7,Antigen testing,,Short,,Large,ow

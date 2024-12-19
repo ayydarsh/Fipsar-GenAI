@@ -1,0 +1,55 @@
+,"new approaches are in development, such as signal amplification and","gen tests are urgently and immensely needed, there is only one EUA-"
+0,"multiplexed detection. Especially in resource-poor areas, because of the",issued antigen test in the market so far for SARS-COV-2 detection that
+1,"lack of early diagnosis, many cases remain undifferentiated, and this",is “Sofia 2 SARS Antigen Test Kit” developed by QUIDEL (U.S. Food and
+2,leads to an uncontrollable spread of the virus. Multiplexed LFAs have,"Drug Administration, 2020i). Sofia 2 rapid antigen test kit is based on a"
+3,become necessary to test multiple biomarkers simultaneously by,sandwich-type immunofluorescence strip technology that is used with
+4,"reducing the reagents, turnaround time, and labor costs (Soh et al.,","an instrument to detect N protein of both SARS-CoV and SARS-CoV-2,"
+5,"2020). However, both methods suffer from setbacks.",meaning that the kit cannot differentiate between these two closely
+6,The biggest issue concerning serological tests is cross-reactivity.,"related virus species. Furthermore, the kit utilizes nasal and nasopha-"
+7,Cross-reactivity occurs when antibodies bind with an antigen different,"ryngeal swab samples, and it is only intended to be operated by medical"
+8,"from the target antigen, often due to the similarities between the mol-","professionals. The clinical sensitivity of the kit was found as 80%,"
+9,"ecules. For example, cross-reactivity was observed by Okba et al. for",whereas the specificity was 100% out of 47 positive and 96 negative
+10,SARS-CoV-2 spike (S) protein with S proteins of SARS-CoV and MERS-,"clinical samples (U.S. Food and Drug Administration, 2020j). After the"
+11,"CoV (Okba et al., 2020). However, no cross-reactivity was observed","failures of several antibody kits (Cohen, 2020a; Royal Statistical Society"
+12,for the S1 subunit of the spike protein for MERS-CoV. The S2 is more,"Covid-19 Task Force, 2020), WHO and FDA warned scientific and"
+13,"highly conserved among coronaviruses, which could make the S1 sub-",medical communities on the use of the rapid commercial tests for
+14,unit a better candidate for serological tests. The biggest issue with this,"SARS-CoV-2 detection (U.S. Food and Drug Administration, 2020c). The"
+15,cross-reactivity is that it can lead to false positives: a patient previously,original quote from WHO was as follows: “with the limited data now
+16,"infected with SARS-CoV may test positive for SARS-CoV-2, although","available, WHO does not currently recommend the use of"
+17,"uninfected. Additionally, because antibodies are developed through the","antigen-detecting rapid diagnostic tests for patient care, although"
+18,"course of an infection, a negative result on an antibody test may not",research into their performance and potential diagnostic utility is highly
+19,confirm that the patient is uninfected. A majority of patients develop an,"encouraged” (WHO, 2020b). Two companies are trying to develop"
+20,"antibody after around 14 days in response to SARS-CoV-2 infection,","reliable antigen tests. In Table 4, we briefly covered these future tech-"
+21,while a recent study shows that both IgG and IgM antibodies were,nologies based on the information available from online sources so far. It
+22,"detected five days later (Cevik et al., 2020; Loeffelholz and Tang, 2020).",is for sure that the sensitive and selective rapid antibody/antigen tests
+23,"This general late response may, therefore, lead to false negatives: where",will dramatically change the spread of the virus worldwide because they
+24,the patient is infected but has not yet produced antibodies at detectable,basically can be operated by anyone.
+25,"levels. It is, therefore, essential to establish the sensitivity and specificity",
+26,values of tests to comprehend the possibilities of false positives and false,5. Other methods
+27,negatives. Sensitivity is the percentage of true positives among all pos-,
+28,"itive results, and the percentage of true negatives among all negative",The prompt testing of the SARS-CoV-2 is a subject of the emergency
+29,"results (Li et al., 2020). On the other hand, due to the late detection of",as the virus is continuing to spread. It would be a tremendous help to
+30,"antibodies, serological studies may be retroactively beneficial in vaccine",fight against the virus if a precise and rapid test was developed since the
+31,"studies, epidemiologic studies, and late complications, where RT-PCR",methods based on rapid antibody and antigens tests are still in question
+32,testing may yield false negatives due to shedding or low viral loads in,"regarding their accuracy and selectivity worldwide (Maxmen, 2020)."
+33,"the tested samples (Woo et al., 2020). Dr. Edward Wright, senior lecturer",The researchers all around the globe have been thriving to develop a test
+34,"in microbiology at the University of Sussex, says that an antibody test","that could deliver fast and accurate results, without compromising the"
+35,cannot tell us who is infected as the antibodies are generated up to two,"sensitivity and selectivity. In this subsection, some of the novel"
+36,weeks later when the virus should have been cleared from the system.,research-stage methods proposed for SARS-CoV-2 detection in the
+37,"However, it can tell us who developed an immunity to the virus and",literature were elaborated. The content is also summarized in Table 5 for
+38,"what proportion of the population has been infected (Kent, 2020).","a quick review of the procedures and the outcomes. So far, many of the"
+39,,published methods have relied on field-effect transistors (FET) and
+40,4. Antigen detection methods,surface plasmon resonance (SPR) principles that are known to deliver
+41,,fast and sensitive signals. SPR principle is based on the collective
+42,An antigen is a particle/fragment/molecule that can trigger the im-,"oscillation of electrons on a given noble metal surface, and it is"
+43,"mune system and induce antibody production to kill the pathogens,",commonly used to monitor molecular interactions in proximity between
+44,"thereby protecting the body. The antigen tests, unlike PCR-based","protein-protein, protein-DNA, protein-RNA, antigen-antibody,"
+45,"methods, detect viral components (i.e., S glycoprotein, M protein, or","enzyme-substrate samples in real-time, with high sensitivity (Kurt et al.,"
+46,released N protein) or the virus directly without thermal amplification,2019). The SPR method proposed by Djaileb et al. was based on the gold
+47,"steps (Green et al., 2020). Like the PCR-based methods, antigen tests","chips modified by the viral nucleocapsid proteins, and it detected the"
+48,"only reveal the active viral infection, not the recovery situation. Because",antibodies in diluted human serum samples in 15 min with nanomolar
+49,"antigens precede antibodies and are target-specific, they could be more","sensitivity (Djaileb et al., 2020), but no clinical testing was performed."
+50,reliable than antibody tests. Antigen tests can be operated on LFA strips,The system was also utilized to fast screen some potential antibody
+51,"for rapid detection purposes or in ELISA format for better sensitivity, and",candidates that showed the best binding affinity against the immobilized
+52,high throughput uses (the simultaneous measurement of 96 samples).,"nucleocapsid proteins. Another SPR study, based on plasmonic photo-"
+53,Diao et al. developed a fluorescent immunochromatographic LFA assay,"thermal effect (PPT) and localized surface plasmon resonance (LSPR),"

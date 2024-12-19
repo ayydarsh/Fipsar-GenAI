@@ -1,0 +1,7 @@
+,Kit name,Unnamed: 0,Manufacturer,Unnamed: 1,Target genes,Unnamed: 2,"LOD(copies/μL)",Unnamed: 3,Accuracy (%)TAT (min)
+0,"TaqPath COVID-19 high throughput15combo",,"Thermo FisherScientific",,S & N,,2,,"100.0Can run up to 8000 reactionsper day"
+1,"Real-time fluorescent RT-PCR kit for152019- nCoV",,BGI Genomics,,ORF1ab,,150,,100.0180
+2,15TRUPCR SARS-CoV-2 RT-qPCR,,Black Biotech,,"E, N & RdRp",,10,,100.0Unavailable
+3,15Allplex 2019-nCoV assay,,Seegene,,"E, N & RdRp",,4167,,100.0110
+4,15FOSUN COVID-19 RT-PCR,,Fosun,,"E, N & ORF1ab",,300,,96.15120
+5,15LabGun real-time PCR,,Lab Genomics,,E & RdRp,,20,,94.3Unavailable

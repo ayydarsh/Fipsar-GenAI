@@ -1,0 +1,32 @@
+,Unnamed: 0,Unnamed: 1,Primary,Country of,Authorized/,Unnamed: 2,Unnamed: 3
+0,Name,Vaccine Type,,,,Dosage,Regulations
+1,,,Developers,Origin,Approval,,
+2,BNT162b2,mRNA,"Pfizer, BioNTech,",Multinational,"UK, Bahrain,",Intramuscular,Fosun Pharma has licensed
+3,,based,Fosun Pharma,,"Canada, Mexico,",injection,BNT162b2 in China
+4,,,,,"US, Singapore,",two-doses,
+5,,,,,"Oman, Saudi",,
+6,,,,,"Arabia, Kuwait,",,
+7,,,,,EU,,
+8,mRNA 1273,mRNA,"Moderna,",US,US/CANADA,Two doses taken,"In the US, EUA issued for"
+9,,based,"BARDA, NIAID",,,28 days apart,patients 18 years and older
+10,CoronaVac,Inactivated,Sinovac,China,China,Two doses 14-28,China has approved this as
+11,,vaccine,,,,days apart,part of an emergency use
+12,,,,,,,program
+13,No name,Inactivated,Wuhan Institute,China,China,–,Only for an emergency
+14,announced,vaccine,of Biological,,,,use program in China. Phase
+15,,,Products. China,,,,3 data have not yet been
+16,,,National),,,,published for this vaccine
+17,Sputnik V,Non-,Gamaleya,Russia,Russia,–,The Health Ministry
+18,,replicating,Research,,,,of the Russian Federation
+19,,viral vector,"Institute,",,,,approved Sputnik V as the
+20,,,,,,,first vaccine for COVID-19
+21,BBIBP-CorV,Inactivated,Beijing Institute,China,"China, United",–,China has approved BBIBP-
+22,,vaccine,of Biological,,"Arab Emirates,",,CorV as part of an emergency
+23,,,Products,,Bahrain,,use program
+24,EpiVacCorona,Peptide,Federal,Russia,Russia,–,Russia has granted regulatory
+25,,Vaccine,Budgetary,,,,approval to EpiVacCorona
+26,,,Research,,,,despite the candidate not yet
+27,,,Institution State,,,,entering Phase 3 trials
+28,Covaxin,Inactivated,Bharat Biotech,India,India,–,The vaccine was granted
+29,,SARS-CoV-2,,,,,approval for EUA with seven
+30,,Vaccine,,,,,weeks into phase 3

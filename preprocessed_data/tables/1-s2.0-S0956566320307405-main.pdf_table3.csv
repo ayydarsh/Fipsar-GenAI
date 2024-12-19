@@ -1,0 +1,34 @@
+,was observed. The SARS-COV-2 qRT-PCR primer-probe sets comparison,"cross-reactivity tests, conducted using in silico analysis, purified nucleic"
+0,study performed by Vogels et al. (2020) under identical PCR conditions,"acid extracts or whole organisms (U.S. Food and Drug Administration,"
+1,(not optimized for each set) were in good agreement with the previous,"2020h). The interpretation of the results is the same for RT-PCR kits,"
+2,"findings of the other groups except for the RdRp-SARSr set from Charité,",differing by the type of targeted viral gene. The RT-PCR results inter-
+3,"Germany (Corman et al., 2020) that had low sensitivity under the",pretation table for COVID-19 RT-PCR Single Plex Test kit by LabCorp
+4,specified experimental conditions.,"(2020b) is represented in Table 2, as an example. As can be seen from the"
+5,The commercial kits based on the RT-PCR method are only operated,"table, the test becomes “invalid” when all the genes tested negative. The"
+6,in laboratory conditions equipped with specialized tools and in-,test result becomes “SARS-CoV-2 positive” when all the viral N genes are
+7,struments because of the sophisticated nature of the RT-PCR reactions as,"tested positive. If only one target viral gene tests positive, the result is"
+8,"well as safety reasons. Therefore, it may be challenging to use the RT-","considered “intermediate,” and the sample requires another testing."
+9,PCR kits for rapid surveillance or screening of the nations for the cur-,"Finally, the test result becomes “SARS-CoV-2 negative” when all the"
+10,rent pandemic. COVID-19 RT-PCR Test kit by Laboratory Corporation of,viral N genes are tested negative.
+11,America (LabCorp) was granted an FDA-EUA in mid-March 2020 for the,Although the RT-PCR remains to be the most reliable method for
+12,qualitative detection of nucleic acid from SARS-CoV-2 in upper and,"SARS-CoV-2 detection so far, only a limited number of tests could be"
+13,"lower respiratory specimens. Recently, in April 2020, LabCorp requested","performed each day, which prevents the authorities from obtaining"
+14,an amendment for its COVID-19 RT-PCR Test kit to be used with a “home,consistent data on the prevalence of the virus in the entire world pop-
+15,specimen collection method” and received a swift authorization from,ulation. The sensitivity of this method usually depends on the RNA
+16,"FDA (U.S. Food and Drug Administration, 2020g). Nasal swab specimens",amount in each sample. The patients can be categorized as SARS-CoV-2
+17,now can be self-collected by individuals at home using the “Pixel by,positive (active case) or SARS-CoV-2 negative based on the outcome of
+18,LabCorp COVID-19 home collection kit” when found suitable by,"the RT-PCR results. However, this technique does not give information"
+19,healthcare personnel following a COVID-19 questionnaire. The,"for the patients who have already recovered from the SARS-CoV-2, since"
+20,COVID-19 RT-PCR Test kit targets three different nucleocapsid proteins,"the viral load is cleared out of the body after recovery. Equally, the"
+21,"from the viral genome (N1, N2 and N3), and it includes a) RNase P (RP)",patients who are in the very first days of the viral infection may not
+22,"reagents as the internal control, b) an in vitro transcribed SARS-CoV-2",respond “positive” with this test due to the inadequate amount of the
+23,"RNA as the positive control, c) a clinically negative patient sample as","virus on the swabs. Therefore, swab samples from different parts of the"
+24,"the negative extraction control and d) nuclease-free, molecular-grade",body may be required for a confirmation test. The development of faster
+25,"water as the no-template or negative control. On the other hand, the","detection kits that do not rely on trained personnel, advanced reactions,"
+26,Pixel by LabCorp COVID-19 Test Home Collection Kit contains a ship-,or equipped laboratories is of great importance. Antigen tests that target
+27,"ping box, pre-labeled return FedEx envelope, nasal specimen collection","the viral biomarkers such as spike, envelope, or nucleocapsid proteins"
+28,"swab, saline tube, insulated specimen pouch, gel pack (for sample",could be useful to support the current RT-PCR-based systems and
+29,"cooling), specimen biohazard bag and the user guideline. Appropriately","accelerate the detection speed worldwide. On the other hand, antibody"
+30,"collected home nasal swab sample is placed in the provided saline tube,",or serology tests are equally important to see how many people have
+31,"packaged in the specimen pouch, placed in between the cooling peds,","already had the virus and developed protective antibodies, which may"
+32,and sent back to the laboratory in the pre-labeled FedEx return enve-,be later used as a databank to survey potential plasma donors for the

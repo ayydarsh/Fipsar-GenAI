@@ -1,0 +1,35 @@
+,"Table. Coronavirus disease cases among healthcare workers in the early postvaccination period, Israel, December 20, 2020–January"
+0,"2, 2021*"
+1,Presumed Day of No. days from No.
+2,"Case Age, Healthcare Indication exposure Exposure symptom Day symptom onset secondary"
+3,no. y/sex Ward sector for testing source  day onset† tested to testing isolations
+4,1 42/F General Physician Symptoms Unknown Unknown −4 +5 Excluded‡ 0
+5,surgery
+6,2 54/F Transportation Secretary Symptoms Unknown Unknown 0 +9 9 1
+7,3 34/M Geriatrics Physician Symptoms Unknown Unknown +1 +1 0 1
+8,4 31/F Cardiovascular Nurse Symptoms Community Unknown +1 +1 0 1
+9,surgery
+10,5 49/F Psychiatry Cleaning Symptoms Unknown Unknown +1 +3 2 0
+11,services
+12,6 43/F Laundry Laundry Symptoms Community −3 +2 +3 1 3
+13,handler
+14,7 43/F Laboratory Scientist Exposure Community −3 +2 +6 4 0
+15,8 60/F ED Nurse Symptoms Community 0 +3 +5 2 0
+16,assistant
+17,9 50/F Eye clinic Technologist Symptoms Unknown Unknown +4 +6 2 0
+18,10 33/M Psychiatry Psychologist Exposure Community +2 +6 +6 0 0
+19,11 36/M Operating room Logistics Symptoms Community +4 +7 +8 1 0
+20,12 54/M Pulmonology Physician Symptoms Community +4 +7 +7 0 0
+21,13 37/M ED Physician Symptoms Unknown +3 +7 +9 2 0
+22,14 32/M Rehabilitation Nurse Symptoms Unknown Unknown +9 +10 1 1
+23,15 40/M Laboratory Physician Symptoms Unknown Unknown +10 +10 0 1
+24,16 52/F Radiotherapy Secretary Exposure Unknown Unknown Asymp +5 NA 3
+25,17 55/F General Phlebotomist Exposure Unknown Unknown Asymp +8 NA 4
+26,surgery
+27,18 55/F Kitchen Food handler Exposure Community −5 Asymp +2 NA 1
+28,19 61/F Radiology Physician Exposure Community +4 Asymp +11 NA 0
+29,20 40/F ED Secretary Exposure Community +6 Asymp +11 NA 2
+30,21 45/F Internal Nurse Exposure Unknown Unknown Asymp +8 NA 0
+31,medicine
+32,22 39/M Internal Nurse Exposure Community +2 Asymp +8 NA 0
+33,medicine

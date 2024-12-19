@@ -1,0 +1,61 @@
+,"with COVID-19 showed typical features on initial CT,",Chloroquine and hydroxychloroquine are other
+0,including bilateral multilobar ground- glass opacities,potential but controversial drugs that interfere with
+1,"with a peripheral or posterior distribution118,119. Thus,",the entry of SARS- CoV-2. They have been used in the
+2,it has been suggested that CT scanning combined,prevention and treatment of malaria and autoimmune
+3,with repeated swab tests should be used for individu-,"diseases, including systemic lupus erythematosus and"
+4,als with high clinical suspicion of COVID-19 but who,rheumatoid arthritis. They can inhibit the glycosyla-
+5,"test negative in initial nucleic acid screening118. Finally,",tion of cellular receptors and interfere with virus–host
+6,SARS- CoV-2 serological tests detecting antibodies to,"receptor binding, as well as increase the endosomal pH"
+7,"N or S protein could complement molecular diagnosis,","and inhibit membrane fusion. Currently, no scientific"
+8,particularly in late phases after disease onset or for retro-,consensus has been reached for their efficacy in the
+9,"spective studies116,120,121. However, the extent and dura-",treatment of COVID-19. Some studies showed they can
+10,"tion of immune responses are still unclear, and available","inhibit SARS- CoV-2 infection in vitro, but the clinical"
+11,serological tests differ in their sensitivity and specific-,"data are insufficient128,129. Two clinical studies indicated"
+12,"ity, all of which need to be taken into account when",no association with death rates in patients receiving
+13,one is deciding on serological tests and interpreting,chloroquine or hydroxychloroquine compared with
+14,their results or potentially in the future test for T cell,those not receiving the drug and even suggest it may
+15,responses.,increase the risk of dying as a higher risk of cardiac arrest
+16,,"was found in the treated patients130,131. On 15 June 2020,"
+17,Therapeutics,"owing to the side effects observed in clinical trials, the"
+18,"To date, there are no generally proven effective thera-",US Food and Drug Administration (FDA) revoked
+19,"pies for COVID-19 or antivirals against SARS- CoV-2,",the emergency use authorization for chloroquine and
+20,although some treatments have shown some benefits,hydroxychloroquine for the treatment of COVID-19.
+21,in certain subpopulations of patients or for certain end,Another potential therapeutic strategy is to block bind-
+22,points (see later). Researchers and manufacturers are,ing of the S protein to ACE2 through soluble recombi-
+23,conducting large- scale clinical trials to evaluate var-,"nant hACE2, specific monoclonal antibodies or fusion"
+24,"ious therapies for COVID-19. As of 2 October 2020,",inhibitors that target the SARS- CoV-2 S protein132–134
+25,there were about 405 therapeutic drugs in development,(fig. 5). The safety and efficacy of these strategies need
+26,"for COVID-19, and nearly 318 in human clinical trials",to be assessed in future clinical trials.
+27,(COVID-19 vaccine and therapeutics tracker). In the,
+28,"following sections, we summarize potential therapeutics",Inhibition of virus replication. Replication inhibitors
+29,against SARS- CoV-2 on the basis of published clinical,"include remdesivir (GS-5734), favilavir (T-705), riba-"
+30,data and experience.,"virin, lopinavir and ritonavir. Except for lopinavir and"
+31,,"ritonavir, which inhibit 3CLpro, the other three all target"
+32,Inhibition of virus entry. SARS-C oV-2 uses ACE2 as the,"RdRp128,135 (fig. 5). Remdesivir has shown activity against"
+33,receptor and human proteases as entry activators; sub-,"SARS- CoV-2 in vitro and in vivo128,136. A clinical study"
+34,sequently it fuses the viral membrane with the cell mem-,revealed a lower need for oxygen support in patients
+35,"brane and achieves invasion. Thus, drugs that interfere",with COVID-19 (ref.137). Preliminary results of the
+36,with entry may be a potential treatment for COVID-19.,Adaptive COVID-19 Treatment Trial (ACTT) clinical
+37,Umifenovir (Arbidol) is a drug approved in Russia and,trial by the National Institute of Allergy and Infectious
+38,China for the treatment of influenza and other respira-,Diseases (NIAID) reported that remdesivir can shorten
+39,tory viral infections. It can target the interaction between,the recovery time in hospitalized adults with COVID-19
+40,the S protein and ACE2 and inhibit membrane fusion,"by a couple days compared with placebo, but the differ-"
+41,(fig. 5). In vitro experiments showed that it has activity,ence in mortality was not statistically significant138. The
+42,"against SARS-CoV-2, and current clinical data revealed",FDA has issued an emergency use authorization for rem-
+43,it may be more effective than lopinavir and ritonavir in,desivir for the treatment of hospitalized patients with
+44,"treating COVID-19 (refs122,123). However, other clinical",severe COVID-19. It is also the first approved option by
+45,studies showed umifenovir might not improve the prog-,the European Union for treatment of adults and adoles-
+46,nosis of or accelerate SARS- CoV-2 clearance in patients,cents with pneumonia requiring supplemental oxygen.
+47,"with mild to moderate COVID-19 (refs124,125). Yet some",Several international phase III clinical trials are contin-
+48,ongoing clinical trials are evaluating its efficacy for,uing to evaluate the safety and efficacy of remdesivir for
+49,COVID-19 treatment. Camostat mesylate is approved,the treatment of COVID-19.
+50,in Japan for the treatment of pancreatitis and postoper-,"Favilavir (T-705), which is an antiviral drug devel-"
+51,ative reflux oesophagitis. Previous studies showed that it,"oped in Japan to treat influenza, has been approved in"
+52,can prevent SARS-C oV from entering cells by blocking,"China, Russia and India for the treatment of COVID-19."
+53,TMPRSS2 activity and protect mice from lethal infection,A clinical study in China showed that favilavir signif-
+54,with SARS- CoV in a pathogenic mouse model (wild-,icantly reduced the signs of improved disease signs
+55,type mice infected with a mouse- adapted SARS- CoV,on chest imaging and shortened the time to viral
+56,"strain)126,127. Recently, a study revealed that camostat",clearance139. A preliminary report in Japan showed rates
+57,mesylate blocks the entry of SARS- CoV-2 into human,of clinical improvement of 73.8% and 87.8% from the
+58,"lung cells47. Thus, it can be a potential antiviral drug",start of favilavir therapy in patients with mild COVID-19
+59,"against SARS- CoV-2 infection, although so far there are","at 7 and 14 days, respectively, and 40.1% and 60.3%"

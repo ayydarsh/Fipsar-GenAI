@@ -1,0 +1,33 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Sample,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,Name of the Kit,Target Genes,Type,,No. of Tests,Time,LOD,Sensitivity,Specificity,Cost (Per Test),Reference
+1,,,,Preparation,,,,,,,
+2,,"rdrp1, rdrp2, E",,,,,,,,,
+3,CovidNudge,"gene, N gene,",RT-PCR,Automated,NA,~90 min,5 copies/μL,>94%,100%,GBP 10,[20]
+4,,"n1, n2, and n3",,,,,,,,,
+5,Accula,,,,,,,,,,
+6,,N gene,RT-PCR,Automated,NA,~30 min,NA,100%,100%,USD 20,[22]
+7,SARS-CoV-2 Test,,,,,,,,,,
+8,Cepheid Xpert,,,,,,,,,,
+9,,,RT-PCR,,,,,,,,
+10,Xpress,N2 and E,,Automated,10 per kit,,0.02 PFU/mL,,,USD 19.8,[23]
+11,,,(real time),,,,,,,,
+12,SARS-CoV-2 assay,,,,,,,,,,
+13,FastPlex Triplex,,,,,,,,,,
+14,,"ORF1ab, N,",,,,,285.7,,,,
+15,SARS-CoV-2,,RT-dPCR,Manual,96 test per kit,90 min,,>95%,95.7%,USD 1152,[23]
+16,,RPP30,,,,,copies/mL,,,,
+17,Detection Kit,,,,,,,,,,
+18,Gnomegen,,,,,,,,,,
+19,COVID-19,,,,48 samples,,2.5 copies per,,,,
+20,,"N1, N2",RT-dPCR,Manual,,180 min,,>95%,99%,NA,[23]
+21,RT-Digital PCR,,,,per day,,reaction,,,,
+22,Detection Kit,,,,,,,,,,
+23,Bio-Rad,,,,,,,,,,
+24,,,,,,,400,,,,
+25,SARS-CoV-2,"N1, N2",RT-dPCR,Manual,96 samples,NA,,,,NA,[23]
+26,,,,,,,copies/mL,,,,
+27,ddPCR Test,,,,,,,,,,
+28,,,End-point,,,,,,,,
+29,ePlexSARS-CoV-2,,RT-PCR with,,,,1 × 103,,,,
+30,,N gene,,Automated,12 tests/kit,NA,,99.02%,98.41%,NA,[23]
+31,Test,,electrochemical,,,,copies/mL,,,,

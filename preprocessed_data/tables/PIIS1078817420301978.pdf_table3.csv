@@ -1,0 +1,38 @@
+,an increase in the range of GGO patches and consolidation can be,"management.78 This was reinforced by Wang et al. (2020), who"
+0,observed (Fig. 4). The middle and lower lung regions and the pos-,used a DL approach to extract the imaging features for COVID-19.
+1,terior lung area are where this progression is mainly distrib-,They found that the sensitivity and specificity of this method
+2,"uted.11,61 Patients may have single-lobe or multiple-lobe","were 74% and 67% respectively.29 However, a commonweakness of"
+3,involvement. A study by Y. Pan et al. (2020) found that 30.2% and,the above studies was the relatively low number of collected CT
+4,"44.4% of patients had only one lobe involved and all lobes involved,","images from patients, which may not be representative of all"
+5,respectively. ‘White lung’ is when diffused lesions are seen in the,COVID-19 patients. A further study was conducted by Li et al.
+6,lungs and their density increases significantly. White lung indicates,"(2020), who collected 4,536 CT images, and designed and evaluated"
+7,that the patient's condition has worsened because it seriously af-,a three-dimensional (3D) deep learning model to diagnose COVID-
+8,fects the lung function.61,19 infections in chest CT scans. This model showed high sensitivity
+9,It is worth noting that several other CT imaging features can also,(90%) and specificity (96%) in detecting COVID-19.79
+10,"be observed as the number of COVID-19 cases increases, including","Jin et al. (2020) conducted a large-scale study (n1⁄4 756) subjects,"
+11,"air bronchogram, airway and pleural changes, fibrosis, vascular",496 COVID-19 positives and 260 negatives to compare the diag-
+12,"enlargement, air bubble signs, nodules, halo signs, lymphadenop-",nostic performance of an AI systemwith that of five radiologists. It
+13,"athy, and pericardial effusion.66 The percentages of these mani-","was found that the AI system achieved high sensitivity (94%),"
+14,"festations occurrence vary widely, therefore, radiologists should be","specificity (95.47%) and diagnostic accuracy, whichwas comparable"
+15,aware while interpreting the CT images for COVID-19 patients to,to that of experienced radiologists (94.7% sensitivity).69 This par-
+16,avoidmisdiagnosis with typical viral pneumonia and should always,"allels with the findings of Chen et al. (2020), who found similar"
+17,link between symptoms and CT features.,performance between a COVID-19 diagnosis system and an expert
+18,,"radiologist; however, it is important to note that the AI system in"
+19,,this study was validated based upon a small dataset (n 1⁄4 19
+20,Artificial intelligence (AI) combined with CT imaging in,confirmed COVID-19 patients) and one radiologist.80 It was found
+21,COVID-19 diagnosis,that high classification results were achieved for coronavirus versus
+22,,non-coronavirus patients with 98.2% sensitivity and 92.2% speci-
+23,"Recently, notable advancements have been made in using AI in","ficity.81 A similar result was reported by Xu et al. (2020); however, it"
+24,the diagnostic imaging eld.69e74fi Ardila et al. (2019) highlighted,is interesting to note that the diagnostic certainty of the AI system
+25,that AI can exceed the performance of human experts in medical,was evaluated by creating con fidence scores of these forecasts. 82A
+26,imaging diagnosis.75 A few studies in the literature have examined,deep learning approach can assist radiologists in diagnosing
+27,"the use of AI in COVID-19 diagnosis, although most of them are","COVID-19 and can automatically extract lesions within CT images,"
+28,preprint version of scientific articles that have not been peer-,"as indicated by Song et al. (2020) and Bai et al. (2020).65,83e86 Bai"
+29,"reviewed, thus highlighting the need for further investigation.",et al. (2020) indicated that the DL tool achieved a prediction area
+30,Kermany et al. (2018) and Rajaraman et al. (2018) referred to the use,under curve (AUC) of 0$938 by combining the clinical data and the
+31,of AI (deep learning) in detecting bacterial and viral pneumonia in,CT data.83
+32,"the chest.76,77 Two years later, a deep learning (DL) system was","AI systems, especially deep learning, have been proposed to"
+33,"developed by Shan et al. (2020), and they found that with the DL",process and analyse medical imaging data such as chest CT to assist
+34,the percentage of infection (POI) of lung lobes and broncho-,radiologists and physicians to improve diagnosis performance. The
+35,pulmonary segments can be automatically calculated and were,AI offers radiologists an opportunity to save time and maximise
+36,clinically relevant with the severity of pneumonia. They high-,productivity especially when required to examine a lot of cases.87

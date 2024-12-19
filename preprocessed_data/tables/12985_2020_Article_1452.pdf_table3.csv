@@ -1,0 +1,8 @@
+,Gender,Age,Initial diagnosis,Specimen type,Ct‐value of RT‐PCR,Unnamed: 0,Rapid Ag test result,Interpretation
+0,,,,,E RdRp,N,,
+1,F,33.0,Pneumonia,NP swab + throat swab,31.18 39.20,35.54,Negative,False negative
+2,F,67.0,Pre-operative,NP swab + throat swab,> 40  > 40,> 40,Positive,False positive
+3,M,75.0,Pre-operative,NP swab + throat swab,> 40  > 40,> 40,Positive,False positive
+4,F,61.0,Pre-operative,NP swab + throat swab,> 40  > 40,> 40,Positive (weakly),False positive
+5,F,83.0,Pre-operative,NP swab + throat swab,> 40  > 40,> 40,Positive (weakly),False positive
+6,F,64.0,Pre-operative,NP swab + throat swab,> 40  > 40,> 40,Positive (weakly),False positive

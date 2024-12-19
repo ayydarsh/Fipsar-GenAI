@@ -1,0 +1,57 @@
+,"lished by the Chinese government, real-time reverse transcription-","great value in diagnosing COVID-19, monitoring disease progres-"
+0,polymerase chain reaction (RT-PCR) assay is considered the first,sion and evaluating treatment plans.25 Lee et al. (2020) claim that
+1,"tool in COVID-19 diagnosis.25 However, delayed sample collection,",most of the clinics in China currently prefer to use CT compared to
+2,"poor kit performance, limited supplies and strict requirements for",other investigation tools. This preference might stem from the
+3,laboratory settings might delay accurate diagnosis.21e26 This in-,"accessibility of CT units in China, CT's ability to diagnose patients at"
+4,dicates that patients with COVID-19 may not be detected and,"an early stage, concerns associated with other tests specificity and"
+5,"receive appropriate treatment, which could increase the risk of","the lack of virus-testing kits.50 However, the American College of"
+6,spread of the infection among a larger population.27 It is not about,Radiology (ACR) is against the use of chest CT as a first-line inves-
+7,the test itself; it is often about when and how the test samples are,tigation tool to diagnose patients with suspected COVID-19 dis-
+8,"collected from infected people, and whether these samples are",ease.51 This might be due to the low specificity of CT in
+9,prepared and transported properly.28,differentiating COVID-19 from other similar illnesses. Similarly the
+10,Diagnostic imaging such as computed tomography (CT) has,Royal College of Radiologists (RCR) stated that CT does have a well-
+11,played an important role in the diagnosis and management of pa-,established role in the assessment of patients presenting with se-
+12,"tients with COVID-19.29,30 CT of the chest is a routine scanning","vere respiratory distress, particularly those that deteriorate clini-"
+13,technique for pneumonia diagnosis. It can be used for the diagnosis,"cally. However, they confirmed that CT should not be used as a"
+14,"of COVID-19, as well as to follow up the extent of lesions and track",diagnostic assessment of patients with suspected coronavirus
+15,any changes in patients whose RT-PCR assays and plain radio-,infection.52 Further challenges related to hygiene may also be
+16,"graphic images were negative.20,31e33 Several studies reported that",another reason for not considering CT as a sole diagnostic tool for
+17,a CT of the chest shows typical imaging features in nearly all pa-,"patients with COVID-19. This includes managing ventilation,"
+18,"tients with COVID-19.11,34e36 Hung et al. and Xie et al. (2020)","airflow, and sanitising and cleaning the scanner rooms in radiology"
+19,highlight that similar imaging features were also detected in pa-,"departments.25,53"
+20,"tients whose RT-PCR assays were negative.1,37",Recent studies have revealed that RT-PCR has low sensitivity
+21,"Artificial intelligence (AI), an emerging technology in the field of",(60e71%) in diagnosing patients with COVID-19 infection
+22,"diagnostic imaging, has contributed to improving diagnosis and","compared to the CT chest.37,54,55 Fang et al. (2020) referred to the"
+23,"prognosis of several diseases, such as pneumonia.38 A research",high sensitivity of CT chest (98%) compared to that of RT-PCR tests
+24,team showed the potential of AI in supporting the diagnosis of,"(71%).55 This is in line with the findings of Xie et al. (2020), who"
+25,"COVID-19 in patients with COVID-19 when trained on CT images,",evaluated 167 patients and found that 3% (n 1⁄4 5) of the patients
+26,"achieving a high sensitivity and specificity (90%).39,40 By conducting",showed initially negative RT-PCR nasopharyngeal and/or throat
+27,a comprehensive review of published studies and the experience of,swabs but simultaneously showed positive results in chest CT
+28,"diagnosing patients with coronavirus, the aim of this article is to","scans.37 This finding was supported by Huang et al. (2020), who"
+29,review the effectiveness of the available COVID-19 diagnostic tools.,found that a laboratory test showed a normal white blood cells
+30,,"count with a negative RT-PCR assay; however, a chest CT scan"
+31,,showed multiple peripheral ground-glass opacities (GGO) in the
+32,RT-PCR assay and CT scans in the diagnosis of COVID-19,lingual segments.1 Such false-negative results may be attributed to
+33,,"the low viral load in test samples and/or laboratory errors,37,55 and"
+34,"The standard method of COVID test is RT-PCR, and the test","it might be necessary to retest the patient. However, test kits are in"
+35,sample can be collected via nasopharyngeal swab or oropharyngeal,"short supply or are unavailable in some places.54 Therefore, some"
+36,swab.41e43 The RT-PCR is a genetic test combining reverse tran-,hospitals have started to use chest CT scans as a primary tool to
+37,scription of Ribonucleic acid (RNA) into complementary Deoxy-,"diagnose COVID-19, though the ACR advises radiographers and"
+38,"ribonucleic acid (DNA), and amplification of specific DNA targets",radiologists to apply extreme precaution in this practice.51
+39,using RT-PCR.44 Although the RT-PCR test remains the reference,"In a study by Xie et al. (2020), it was found that all patients"
+40,standard in making a definitive diagnosis of COVID-19 infec-,presented characteristic CT image features of COVID-19 at an early
+41,"tion,45,46 this test has rigorous laboratory specifications and takes a","stage, including GGO and/or mixed GGO and mixed consolidation,"
+42,"long time to report results.30,37 Several studies found that the initial",confirmed by positive RT-PCR assay during the isolation period.37
+43,RT-PCR results for patients with COVID-19 infection were false-,Shi et al. (2020) highlighted that symptomatic patients might
+44,"negatives.1,37 These false-negative findings cannot be ignored,",show changes in chest CT scans prior to obvious symptom onset.56
+45,especially for those symptomatic people suspected to be infected,Shi and colleagues indicated that following up with chest CT scans
+46,with COVID-19.,might aid the continuous monitoring of disease changes during
+47,CT scans of the chest are used as a routine test to diagnose,"treatment.56 In their study, Wu et al. (2020) found that most of the"
+48,"pneumonia; therefore, this may be useful in diagnosing COVID-","patients had mild symptoms and high temperatures; however, the"
+49,"19.21,47 Unenhanced high resolution CT (HRCT) of the chest is ac-",lung manifestations on their chest CT scans were serious. They
+50,quired during a single breath-hold. CT images are then recon-,highlighted the role of chest CT scans in evaluating the severity of
+51,structed and transmitted for subsequent interpretation and,COVID-19 infection.57
+52,diagnosis.48 Ai et al. (2020) conducted a study to evaluate the value,"In contrast, Guan et al. (2020) and Chuang et al. (2020)"
+53,and consistency of chest CT scans in the diagnosis of COVID-19 and,respectively found that 20% (n 1⁄4 230/1099) and 14% (n 1⁄4 3/21) of
+54,"found that the majority of patients (98%, n 1⁄4 56/57) had initial",patients with clinical symptoms and positive RT-PCR findings had
+55,positive chest CT scans before or within six days of the initial,"normal chest CT findings.8,20 Similar results were found by Yang"

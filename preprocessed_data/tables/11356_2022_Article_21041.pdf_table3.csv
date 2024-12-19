@@ -1,0 +1,31 @@
+,"have been identified, whereas critically ill patients require","needs less time, and decreases the possibility of errors or"
+0,"intense care due to respiratory failure, septic shock, or organ","contamination. At the same time, the two-step procedure is"
+1,"failure. Additionally, the likelihood of contracting COVID-",much more flexible and gives higher sensitivity.
+2,"19 increases if there is shortness of breath, coughing, or if",
+3,a person has come into touch with a COVID-19-infected,Specimen
+4,person or travels through a COVID-19-affected area (Ghosh,
+5,"et al. 2021). In this case, the clinical test should be admin-","Nasopharyngeal swabs, oropharyngeal swabs, bronchoalveo-"
+6,"istered to the affected individuals, and infected areas should","lar lavage specimens, stool, and urine specimens are kept at"
+7,"be sealed off. Patients infected with COVID-19, on the other",2–8 °C (≤ 4 days) or frozen in dry ice at − 70 °C or below
+8,"hand, may recover quickly because of their high immunity","(WHO Guidelines) (World Health Organization , 2020a, b)."
+9,"capacity and return to their pre-infection state, whilst oth-",
+10,ers may require additional time due to health issues or age,Primers and probe designing
+11,constraints (Hossain et al. 2020).,
+12,,"Coronaviruses are large, positive-stranded RNA viruses with"
+13,,"the giant genomes of any RNA virus, spanning between 27"
+14,Currently instigated diagnostic approaches,and 32 kb (Lu et al. 2020). The genomic RNA in this virus
+15,,combines with the basic nucleocapsid (N) protein to produce
+16,Real‐time polymerase chain reaction,a helical cap with a diameter of 80 to 120 nm and a length of
+17,,80 to 120 nm. The membranes of the virus are made up of
+18,"RT-PCR, which combines reverse RNA transcription into","three viral proteins. The spike (S), a type I glycoprotein, the"
+19,complementary DNA (cDNA) with amplifying specific,"membrane protein (M), and the envelope membrane protein"
+20,"DNA targets, has been used as a quantitative laboratory tech-",(EMP) are all glycoproteins.
+21,nique (Fronhoffs et al. 2002). In the case of RNA virus’s,"For SARS-CoV-2 detection, the design process generally"
+22,"presence detection through RT-PCR, RNA-dependent DNA",involves two main steps:
+23,polymerase is used for reverse transcriptase. Small DNA,
+24,sequence primers were designed to target and bin specific,(1) Sequence alignment and primer design.
+25,complementary sequences of the particular virus genome in,(2) Assay optimization and testing.
+26,"the inertial detection process. As a result, and using RNA-",
+27,"dependent DNA polymerase, cDNA copies were produced.",When the researchers examined the genomes of SARS-
+28,"In RT-PCR, this amplification is monitored using various","related viruses, they observed three conserved regions in"
+29,fluorescence dyes or DNA probes labeled with fluorescence,which the RdRP (RNA-dependent RNA polymerase) gene

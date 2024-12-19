@@ -1,0 +1,47 @@
+,Table 2,List of serological assays used for the detection of SARS-CoV-2 antigen or/antibodies to SARS-CoV-2 virus,Unnamed: 0,Unnamed: 1,Unnamed: 2
+0,Sl. No,Name of the diagnostic assay Test principle Name of company,Sensitivity,Ig or antigen detection,Turnaround time
+1,1,"COVID Kavach ELISA IgG ELISA Zydus Cadila Healthcare Ltd.,",92.37%,IgG,Testing 90 samples together
+2,,"Ahmedabad, Gujarat, India",,,in a single run of 2.5 h
+3,2,"Euroimmun Anti- SARS-COV-2 ELISA Euroimmun US Inc., USA",90%,IgG,NA
+4,,ELISA IgG,,,
+5,3,"Erbalisa COVID-19 IgG ELISA ELISA Calbiotech Inc., USA",98.3%,IgG,Results in 50 min
+6,4,KT-1033 EDI Novel Coronavirus ELISA Epitope Diagnostics,45%,IgG/IgM,
+7,,COVID-19 ELISA kit,,,
+8,5,VITROS-Immunodiagnostics ELISA Ortho-Clinical Diagnostics,>8 days 100%,IgG/IgM,Cannot distinguish
+9,,Products Anti-SARS-CoV-2,,,between IgG/IgM
+10,,total reagent pack,,,
+11,6,DEIASL019/020 SARS-CoV-2 ELISA Creative Diagnostics,NA,IgG/IgM,IgG specific for N protein
+12,,IgG ELISA kit,,,
+13,7,m2000 SARS-CoV-2 assay Chemiluminescent Abbott Core Laboratory,53.1% (day 7),IgG,Runs up to 100–200 tests/h
+14,,microparticle,82.4% (day 10),,
+15,,immunoassay,96.9% (day 14),,
+16,,,100% (> day 17),,
+17,8,IgG antibody test kit for Novel Magnetic particle-based Bioscience (Chongqing),NA,IgG,NA
+18,,coronavirus 2019-nCoV chemiluminescence Diagnostic Technology,,,
+19,,"immunoassay Co., Ltd.",,,
+20,9,Standard Q COVID-19 Ag Chromatographic SD Biosensor,84.38%,Viral antigen,Results in 30 min
+21,,immunoassay,,,
+22,10,iFLASH-SARS-CoV-2-IgG/IgM Immunoassay Shenzhen Yhlo Biotech,97.3%-IgG,IgG/IgM,
+23,,Company,86.1%-IgM,,
+24,11,MAGLUMI IgG/IgM de 2019-nCoV (CLIA) Chemiluminescence Snibe Diagnostic (China),100%-IgG-12 days,IgG/IgM,Results in 30 min
+25,,immunoassay,88%-IgM,,
+26,12,Diazyme DZ-Lite SARS-CoV-2 IgG/IgM test Luminescent immunoassay Diazyme Laboratories,95.6%-IgG,IgG/IgM,NA
+27,,,89.9%-IgM,,
+28,13,VivaDiag COVID-19 IgM/IgG rapid test Lateral flow immunoassay Everest Links Pte Ltd.,18.4%,IgG/IgM,Results in 15 min
+29,14,COVID-19 IgG/IgM LF Lateral flow immunoassay Advagen Biotech,NA,IgG/IgM,Results in 10 min
+30,15,COVID-19 IgG/IgM Point of Care Rapid test Lateral flow immunoassay Aytu Biosciences/Orient,93%-(IgG),IgG/IgM,Results in 2–10 min
+31,,Gene Biotech,69%-(IgM,,
+32,16,qSARS-CoV-2 IgG/IgM rapid test Lateral flow immunoassay Cellex Inc,NA,IgG/IgM,"Results in 15–20 min,"
+33,,,,,antibodies specific
+34,,,,,for N protein
+35,17,COVID-19 IgM/IgG rapid test Lateral flow immunoassay BioMedomics,NA,IgG/IgM,Results in 15 min
+36,18,One-Step COVID-2019 test Lateral flow immunoassay Celer Biotechnologia,NA,IgG/IgM,Results in 15 min
+37,19,COVID-19 Ag Respi-Strip Lateral flow immunoassay (dipstick) Coris Bioconcept,NA,Viral antigen,Results in 15 min
+38,20,DPP COVID-19 IgM/IgG system Lateral flow immunoassay Chembio Diagnostics,95%,IgG/IgM,Results in 15 min
+39,21,OnSite COVID-19 IgG/IgM rapid test Lateral flow immunoassay CTK Biotech Inc. (USA),97.1%,IgG/IgM,Results in 10 min
+40,22,COVID-19 IgG/IgM rapid test cassette Lateral flow immunoassay Hangzhou Biotest Biotech,100%-IgM 93.3%-IgG,IgG/IgM,Results in 15–20 min
+41,,Co. Ltd.,,,
+42,23,SARS-CoV-2 rapid test Lateral flow immunoassay PharmACT,NA,IgG/IgM,"Results in 20 min, N"
+43,,,,,"protein, S1 and S2"
+44,,,,,subunits used as antigens
+45,24,Standard Q COVID-19 IgM/IgG Duo Lateral flow immunoassay SD Biosensor,94.33%-> 7 days,IgG/IgM,Results in 10 min

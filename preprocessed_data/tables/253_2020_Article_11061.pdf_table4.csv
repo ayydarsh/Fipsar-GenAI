@@ -1,0 +1,46 @@
+,"target segment of viral gene. Then, special CRISPR-",generation sequencing of clinical specimen from the COVID-
+0,"associated nucleases such as cas9, cas12, or cas13 will be used",19 infected patients would allow rapid identification of SARS-
+1,for cutting the target molecule (Fig. 2).,CoV-2 and other pathogens contributing secondary/co infec-
+2,Many researchers have attempted to use the CRISPR-based,tions that otherwise known to enhance the severity of SARS-
+3,"detection system for detection of SARS-CoV-2. For instance,",CoV-2 symptoms. Metagenomic approach would help not
+4,a study by Zhang et al. (2020b) used CRISPR-based detection,only in pathogen detection but also provides genetic informa-
+5,system (SHERLOCK) (Specific High sensitivity Enzymatic,"tion, which further led to the better understanding of viral"
+6,Reporter unLOCKing) with isothermal recombinase polymer-,"evolution, molecular epidemiology, and contact tracing. In"
+7,ase amplification (RPA) could detect single molecule per mil-,"addition, genetic sequencing allows us to assess the rate of"
+8,"liliter within 1 h (Zhang et al. 2020a). In this technique, cas13",genetic mutations of SARS-CoV-2; this information is very
+9,was used for the detection of amplified products of S and,useful in determining the antiviral and vaccine efficacy.
+10,Orf1ab gene of SARS-CoV-2. This assay developed by,The Illumina COVIDSeq is an amplicon-based NGS-based
+11,Sherlock Biosciences became the first FDA-approved,detection platform approved by US Food and Drug
+12,CRISPR technology on the market. Another CRISPR diag-,Administration (US-FDA) for the qualitative detection of
+13,"nostic company, Mammoth Biosciences, used combination of",SARS-CoV-2 from respiratory specimens collected from the
+14,"RT-LAMP with CRISPR-cas12-based technique, which",suspected COVID-19 patients. This detection method utilizes
+15,could detect 10–100 copies of viral RNA per microliter in,different sets primers and probes leveraged from ARTIC mul-
+16,"40 min. Till date, this the fastest test developed by",tiplex PCR protocol (Itokawa et al. 2020) combined with
+17,Mammoth Biosciences for the detection of SARS-CoV-2,Illumina sequencing technology. The COVIDSeqtest accom-
+18,(Broughton et al. 2020). This technique targets the envelope,modates up to 3072 samples in single run on a NOVASeq
+19,gene of SARS-CoV-2 and results can be analyzed by fluores-,with a turnaround time of 12 h (https://www.illumina.com/
+20,"cence or/through lateral flow method. Further, Ding et al.",products/by-type/clinical-research-products/covidseq.html).
+21,"(2020) developed a rapid, ultrasensitive all in one dual","Similarly, the Thermo Fischer Scientific has launched Ion"
+22,"CRISPR/Cas12a (AIOD-CRISPR) assay, which utilizes dual",AmpliSeq SARS-CoV-2 research panel that facilitates analy-
+23,crRNAs targeting two regions of the viral N gene (Ding et al.,sis of SARS-CoV-2 genome and provides high throughput
+24,2020) with limit of detection of 4.6–11 copies/microliter.,workflow for monitoring the viral evolution. This research
+25,"Further, a recently developed bed side assay FELUDA",panel consists of two pools of amplicons ranging from 125
+26,(field-deployable nucleobase detection and identification,to 275 bp targeting more than 99% of the SARS-CoV-2 ge-
+27,using FnCas9) utilizes FnCas9 could detect as low as 110,nome (https://thermofisher.mediaroom.com/2020-05-06-
+28,femtomolar nucleic acid of the virus (Azhar et al. 2020).,Rapid-COVID-19-Genome-Sequencing-Aids-Outbreak-
+29,Even though all these advancedmolecular diagnostic methods,Investigations). This assay requires 1 ng of viral RNA.
+30,"have shown promising results, it is important to carefully val-",Oxford nanotechnology has introduced long-read sequenc-
+31,idate these tools for its efficient field application.,ing platform which has demonstrated substantial benefits of
+32,,analytical innovations over the currently existing methods for
+33,,the genome sequencing. Moore et al. has demonstrated the
+34,Cartridge-based nucleic acid amplification test and TrueNAT,application of MinIon based amplicon and metagenomic se-
+35,,quencing to identify SARS-CoV-2 and other microbes asso-
+36,Cartridge-based nucleic acid amplification test (CBNAAT) is,ciated with COVID-19 illness (Moore et al. 2020). The study
+37,a technique which uses the GeneXpert technology for the,ofWang et al. has reported nanopore target sequencing (NTS)
+38,diagnosis of tuberculosis (TB). This cartridge-based nucleic,to SARS-CoV-2 and other pathogens simultaneously from
+39,"acid amplification is a fully automated amplification system,",respiratory specimens within 10 h (Wang et al. 2020b). The
+40,"which utilizes real-time PCR. However, due to abrupt raise in",developed method has shown considerably higher sensitivity
+41,"the COVID-19 cases, Indian Council of Medical Research",of detecting 10 viral copies per mL of sample. As this tech-
+42,(ICMR) has approved the use of CBNAAT to detect,"nology is designed to amplify log read sequences, it is impor-"
+43,COVID-19 cases (https://www.icmr.gov.in/pdf/covid/labs/,tant to consider the limitation of this technology in detecting
+44,Cepheid_Xpert_Xpress_SARS-CoV2_advisory_v2.pdf).,short fragments of SARS-CoV-2 genome from highly degrad-

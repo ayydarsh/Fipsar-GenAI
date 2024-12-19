@@ -1,0 +1,16 @@
+,SARS- SARS-,Unnamed: 0,SARS-,RNAse P,Interpretation,Report,Actions (Clinical Site Samples),Actions (Pixel Home Collection Kit
+0,CoV-2 CoV-2,,CoV-2,(FAM),,,,samples)
+1,N1 N2,,N3,,,,,
+2,(FAM) (FAM),,(FAM),,,,,
+3,þ þ,,þ,þ/¡,SARS-CoV-2,DETECTED,Report results to sender and appropriate,"Report results to PWN Health, who will"
+4,,,,,detected,,public health authorities,call the patient. Report the result to the
+5,,,,,,,,Pixel portal. Report the result to the
+6,,,,,,,,appropriate public health authorities
+7,If only one target is,,þ/¡,þ/¡,SARS-CoV-2,INDETERMINATE,The sample is repeated once. If results,The sample is repeated once. If results
+8,positive,,,,Indeterminate,,"remain the same, it is reported to the","remain the same, it is reported to the"
+9,,,,,,,sender as indeterminate and,"sender as indeterminate to PWN Health,"
+10,,,,,,,recommend recollection if the patient is,who will call the patient. Report the result
+11,,,,,,,still clinically indicated,to the Pixel Portal
+12,- -,,-,þ,SARS-CoV-2,NOT DETECTED,Report results to sender,Report results to PWN Health and the Pixel
+13,,,,,Not Detected,,,Portal
+14,- -,,-,-,Invalid Result,INVALID,The sample is repeated once. If a second,The sample is repeated once. If a second

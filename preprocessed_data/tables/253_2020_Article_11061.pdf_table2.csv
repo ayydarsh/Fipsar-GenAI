@@ -1,0 +1,45 @@
+,Table 1 (continued),Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+0,Sl. Name of the diagnostic assay,,Test principle,Name of company,Sensitivity,Gene of target,Turnaround time
+1,No,,,,,,
+2,28 ARIES SARS-CoV-2 assay,,Real-time RT-PCR,Luminex Corporation,300 copies/target,ORF1ab and N gene,Minimal hands-on time
+3,,,,,,,and
+4,,,,,,,an automated
+5,,,,,,,workflow
+6,,,,,,,delivers results in 2
+7,30 Power Check 2019 nCoV,,Real-time RT-PCR,"Kogene Biotech, Seoul,",10-fold serial dilutions,E and RdRp genes,NA
+8,Real Time PCR Kit,,,Korea,,,
+9,31 Covid 19 Probe-free Real Time PCR,,Real-time RT-PCR,Indian Institute of,NA,NA,NA
+10,Diagnostic Kit,,,"Technology, Delhi, India",,,
+11,33 LabGun Real Time PCR Kit,,Real-time RT-PCR,"LabGenomics, South Korea",20 genomic RNA copies/μL,RdRp and E genes,NA
+12,34 COVID-19 RT-PCR kit,,Real-time RT-PCR,"Medsource Ozone Biomedicals,",20 copies/μL,ORF1ab and N genes,NA
+13,,,,"Faridabad, India",,,
+14,35 Meril COVID-19 One-step,,Real-time RT-PCR,"Meril Diagnostics, Vapi, Gujarat,",< 5 RNA copies/reaction,ORF 1ab and,Result in 65 min
+15,RT-PCR Kit,,,India,,nucleoprotein N genes,
+16,36 Patho Detect,,Real-time RT-PCR,"Mylab Discovery Solutions,",100%,Viral RNA,Results within 2.5 h
+17,,,,"Pune, India",,,
+18,37 LYRA SARS-CoV-2 assay.,,Real-time RT-PCR,"Diagnostic Hybrids, Inc Quidel",3.40e+4 copies /mL,ORF1ab,Results in < 75 min
+19,,,,Corporation,,,after
+20,,,,,,,extraction
+21,38 STANDARD M nCoV,,Real-Time RT-PCR,SD BIOSENSOR,0.5 copies/μL,E and RdRP genes,Results within 90 min
+22,RT detection kit,,,,,,
+23,40 Gene Finder COVID-19,,,"OSANG Health Care,",NA,NA,NA
+24,,,,South Korea,,,
+25,41 Viracor SARS-CoV-2 assay,,Real-time RT-PCR,Viracor Eurofins Clinical,NA,N gene,"Results the same day,"
+26,,,,Diagnostics,,,12–18 h
+27,,,,,,,from receipt of
+28,,,,,,,specimen
+29,42 MiRXES FORTITUDE KIT 2.0,,Real-time RT-PCR,MiRXES Pte Ltd.,NA,Viral RNA genes less,"Results in 90 min,"
+30,,,,,,prone to mutation,produces
+31,,,,,,,"100,000 test"
+32,,,,,,,kits/week
+33,43 Q-line Molecular,,Real-time RT-PCR,"POCT Services Pvt. Limited,",NA,NA,NA
+34,Coronavirus,,,"Lucknow, India",,,
+35,(COVID-19) RT-PCR kit,,,,,,
+36,44 Z-Path Covid-19C (Genesig),,Real-time RT-PCR,"Primer Design, UK",0.58 copies/μl,Viral RNA,NA
+37,45 Allplex 2019-nCoV assay,,Multiplex real-time RT-PCR,Seegene,"E gene-4,167Copies/mL","E, N, and RdRP",Results in < 2 h after
+38,,,,,N gene-1250 copies/mL RdRP,genes,extraction
+39,,,,,gene-4167 copies/mL,,
+40,47 Novel Coronavirus(2019-nCoV),,Real-time RT-PCR,"Sansure Biotech Inc.,",200 copies/mL,ORF1ab gene,Results in 30 min
+41,Nucleic Acid Diagnostic Kit (PCR,,,"Changsha, China",,and N gene,
+42,Fluorescence Probing),,,,,,
+43,48 cobas SARS-CoV-2,,Real-time RT-PCR,"Roche Molecular Systems, Inc.",0.003 TCID50/mL,Viral RNA,"Results in 3.5 h,"

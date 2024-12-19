@@ -1,0 +1,23 @@
+,Unnamed: 0,HCoV-229E,HCoV-OC43,HCoV-NL63,HCoV-HKU1,SARS-CoV,MERS-CoV,SARS-CoV-2
+0,Incubation,,,,,,,
+1,,2-5 days,2-5 days,2-4 days,2-4 days,2-11 days,2-13 days,3-6 days
+2,period,,,,,,,
+3,Clinical,Cough,Cough,Coryza,Fever,Fever,Fever,Fever
+4,features,Coryza,Coryza,Cough,Coryza,Cough,Cough,Cough
+5,,Dyspnea,Fever,Fever,Myalgia,Dyspnea,Dyspnea,Fatigue
+6,,Fever,Headache,Dyspnea,Cough,Diarrhea,Diarrhea,Headache
+7,,Myalgia,Sore throat,Myalgia,,Malaise,Pneumonia,Dyspnea
+8,,Headache,Dyspnea,Sore throat,,Myalgia,Acute Renal,Diarrhea
+9,,Sore throat,Myalgia,Headache,,Headache,involvement,Headache
+10,,,Cyanosis,Diarrhea,,Rigors,,Myalgia
+11,,,,Tachypnea,,Respiratory,,Pneumonia
+12,,,,Hypoxia,,distress,,Acute
+13,,,,,,,,respiratory
+14,,,,,,,,distress
+15,,,,,,,,Anosmia
+16,,,,,,,,Ageusia
+17,,,,,,,,Dyspnea
+18,,,,,,,,Acute
+19,,,,,,,,myocardial
+20,,,,,,,,infarction
+21,Case fatality,N/A,N/A,N/A,N/A,9.6%,34.4%,3.4%

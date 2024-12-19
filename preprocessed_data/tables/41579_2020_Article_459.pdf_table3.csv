@@ -1,0 +1,59 @@
+,"belonging to the subgenus Sarbecovirus, except for a","tion make up a single subclade labelled as ‘clade S’33,34."
+0,"similar three amino acid insertion (PAA) in RmYN02,","Currently, however, the available sequence data are not"
+1,a bat- derived coronavirus newly reported from,sufficient to interpret the early global transmission his-
+2,Rhinolophus malayanus in China28 (fig. 3a). Although the,"tory of the virus, and travel patterns, founder effects and"
+3,insertion in RmYN02 does not functionally represent a,public health measures also strongly influence the spread
+4,"polybasic cleavage site, it provides support for the notion","of particular lineages, irrespective of potential biological"
+5,"that this characteristic, initially considered unique to",differences between different virus variants.
+6,"SARS-C oV-2, has been acquired naturally28. A structural",
+7,study suggested that the furin- cleavage site can reduce,Animal host and spillover
+8,the stability of SARS- CoV-2 S protein and facilitate the,Bats are important natural hosts of alphacoronavi-
+9,conformational adaption that is required for the binding,ruses and betacoronaviruses. The closest relative
+10,of the RBD to its receptor29. Whether the higher trans-,to SARS- CoV-2 known to date is a bat coronavirus
+11,missibility of SARS- CoV-2 compared with SARS- CoV,"detected in Rhinolophus affinis from Yunnan province,"
+12,is a gain of function associated with acquisition of the,"China, named ‘RaTG13’, whose full- length genome"
+13,furin-like cleavage site is yet to be demonstrated26.,sequence is 96.2% identical to that of SARS- CoV-2
+14,An additional distinction is the accessory gene orf8,(ref.11). This bat virus shares more than 90% sequence
+15,"of SARS-C oV-2, which encodes a novel protein showing",identity with SARS- CoV-2 in all ORFs throughout
+16,only 40% amino acid identity to ORF8 of SARS- CoV.,"the genome, including the highly variable S and ORF8"
+17,"Unlike in SARS- CoV, this new ORF8 protein does",(ref.11). Phylogenetic analysis confirms that SARS-C oV-2
+18,not contain a motif that triggers intracellular stress,closely clusters with RaTG13 (fig. 2). The high genetic
+19,"pathways25. Notably, a SARS- CoV-2 variant with a",similarity between SARS- CoV-2 and RaTG13 supports
+20,382-n ucleotide deletion covering the whole of ORF8 has,the hypothesis that SARS- CoV-2 likely originated from
+21,"been discovered in a number of patients in Singapore,",bats35. Another related coronavirus has been reported
+22,which resembles the 29- or 415-n ucleotide deletions in,more recently in a Rhinolophus malayanus bat sampled
+23,the ORF8 region observed in human SARS-C oV variants,"in Yunnan. This novel bat virus, denoted ‘RmYN02’,"
+24,from the late phase of the 2002–2003 outbreak30. Such,is 93.3% identical to SARS- CoV-2 across the genome.
+25,ORF8 deletion may be indicative of human adaptation,"In the long 1ab gene, it exhibits 97.2% identity to"
+26,after cross- species transmission from an animal host.,"SARS- CoV-2, which is even higher than for RaTG13"
+27,To assess the genetic variation of different SARS-,"(ref.28). In addition to RaTG13 and RmYN02, phyloge-"
+28,"CoV-2 strains, the 2019 Novel Coronavirus Resource",netic analysis shows that bat coronaviruses ZC45 and
+29,of China National Center for Bioinformation aligned,ZXC21 previously detected in Rhinolophus pusillus
+30,"77,801 genome sequences of SARS-C oV-2 detected glob-",bats from eastern China also fall into the SARS-C oV-2
+31,"ally and identified a total of 15,018 mutations, including",lineage of the subgenus Sarbecovirus36 (fig. 2). The dis-
+32,"14,824 single- nucleotide polymorphisms (BIGD)31.",covery of diverse bat coronaviruses closely related to
+33,"In the S protein, four amino acid alterations, V483A,",SARS- CoV-2 suggests that bats are possible reservoirs
+34,"L455I, F456V and G476S, are located near the binding","of SARS- CoV-2 (ref.37). Nevertheless, on the basis of"
+35,"interface in the RBD, but their effects on binding to the","current findings, the divergence between SARS-CoV-2"
+36,host receptor are unknown. The alteration D614G in,and related bat coronaviruses likely represents more than
+37,the S1 subunit was found far more frequently than other,"20 years of sequence evolution, suggesting that these bat"
+38,"S variant sites, and it is the marker of a major subclade of",coronaviruses can be regarded only as the likely evolu-
+39,"SARS-C oV-2 (clade G). Since March 2020, SARS-C oV-2",tionary precursor of SARS- CoV-2 but not as the direct
+40,variants with G614 in the S protein have replaced the,progenitor of SARS-C oV-2 (ref.38).
+41,original D614 variants and become the dominant form,"Beyond bats, pangolins are another wildlife host"
+42,"circulating globally. Compared with the D614 variant,",probably linked with SARS-C oV-2. Multiple SARS-C oV-2-
+43,higher viral loads were found in patients infected with,related viruses have been identified in tissues of Malayan
+44,"the G614 variant, but clinical data suggested no signif-",pangolins smuggled from Southeast Asia into southern
+45,icant link between the D614G alteration and disease,China from 2017 to 2019. These viruses from pangolins
+46,severity32. Pseudotyped viruses carrying the S protein,independently seized by Guangxi and Guangdong pro-
+47,with G614 generated higher infectious titres than viruses,vincial customs belong to two distinct sublineages39–41.
+48,"carrying the S protein with D614, suggesting the altera-","The Guangdong strains, which were isolated or"
+49,tion may have increased the infectivity of SARS-CoV-2,sequenced by different research groups from smug-
+50,"(ref.32). However, the results of in vitro experiments based","gled pangolins, have 99.8% sequence identity with each"
+51,on pseudovirus models may not exactly reflect natural,"other41. They are very closely related to SARS- CoV-2,"
+52,infection. This preliminary finding should be validated,"exhibiting 92.4% sequence similarity. Notably, the RBD"
+53,by more studies using wild-t ype SARS-C oV-2 variants to,of Guangdong pangolin coronaviruses is highly similar
+54,infect different target cells and animal models. Whether,to that of SARS- CoV-2. The receptor- binding motif
+55,this amino acid change enhanced virus transmissibil-,(RBM; which is part of the RBD) of these viruses has
+56,ity is also to be determined. Another marker mutation,"only one amino acid variation from SARS- CoV-2, and"
+57,for SARS- CoV-2 evolution is the single- nucleotide,it is identical to that of SARS- CoV-2 in all five critical
